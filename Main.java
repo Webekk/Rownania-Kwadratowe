@@ -1,6 +1,5 @@
 package com.rownanie;
 
-import java.util.Scanner;
 
 public class Main {
 
